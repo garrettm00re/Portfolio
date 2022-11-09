@@ -3,9 +3,12 @@
 ```diff
 + Overview:
 
-So far, this portfolio includes only projects from cs61b (Data Structures). I plan to revitalize these
+This portfolio includes my projects from cs61b (Data Structures). I plan to revitalize these
 projects, add more from other classes, and create passion projects. Please enjoy these, and if you have
 any questions, comments, or concerns feel free to reach out.
+
+- NOTE:
+Necessary data, libraries, and sources are all missing.
 ```
 ```diff
 + Status as of 11/8/2022:
