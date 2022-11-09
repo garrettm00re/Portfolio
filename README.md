@@ -1,12 +1,14 @@
-# Garrett Moore's Portfolio of CS related Projects
+# Garrett Moore's Portfolio
+    CS Projects To Date
 
 Updates:
 
 11/8/2022
-Adding all school projects I've worked on thus far. Some of these are old, so I'll improve them and add new functionality. I'll also be adding passion projects I develop when I'm finally free.
+Adding all school projects I've worked on thus far. Some of these are old, so I'll improve them and design new functionality. I'll also be adding passion projects I develop when I'm finally free.
 
 11/8/2022
-Added Proj0, Proj1
+Added 2048, Deque Implementations
 
 11/8/2022
-Added Proj2 (Note that data required for use is missing, will upload readme in project folder with google drive link to data) 
+Added Google NGram Viewer, Hyponyms Viewer
+NOTE: data required for use is missing, will upload readme in project folder with google drive link to data 
