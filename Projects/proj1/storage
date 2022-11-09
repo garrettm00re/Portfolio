@@ -1,0 +1,32 @@
+private boolean equals(Object o) {
+        if (o instanceof LinkedListDeque<?>) {
+            int index = 0;
+            while (index < size) {
+                if ((this.get(index) != ((LinkedListDeque<?>) o).get(index))
+                        || (this.size != ((LinkedListDeque<?>) o).size())) {
+                    return false;
+                }
+                index++;
+            }
+        }
+        return true;
+    }
+default public boolean equals(Object O) { //implements?
+        Deque compare = (Deque) O;
+        boolean b = true;
+        if (O instanceof Deque<?> && compare.size() == this.size()) {
+            for (int i = 0; i < size(); i++) {
+                if (b == false) {
+                    return false;
+                }
+                if (compare.get(i) instanceof Object) {
+                    b = b & this.get(i).equals(compare.get(i)); //how do I ensure I am calling generic equals-- this method wouldn't work for LLD containing array for ex
+                }
+                else {
+                    b = b & this.get(i) == compare.get(i);
+                }
+            }
+            return b;
+        }
+        return false;
+    }
