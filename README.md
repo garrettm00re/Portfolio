@@ -3,9 +3,9 @@
 ```diff
 + Overview:
 
-So far, this portfolio includes only projects from cs61b (Data Structures). I plan to revitalize these projects, add 
-more from other classes, and create passion projects. Please enjoy these, and if you have any questions, comments, or 
-concerns feel free to contact me at garrettmoore@berkeley.edu
+So far, this portfolio includes only projects from cs61b (Data Structures). I plan to revitalize these
+projects, add more from other classes, and create passion projects. Please enjoy these, and if you have
+any questions, comments, or concerns feel free to reach out.
 ```
 ```diff
 + Status as of 11/8/2022:
@@ -24,5 +24,6 @@ Added 2048, Deque Implementations
 
 11/8/2022
 Added Google NGram Viewer, Hyponyms Viewer
-NOTE: data required for use is missing, will upload readme in project folder with google drive link to data 
+NOTE: data required for use is missing will upload readme in project folder with google drive
+link to data. Citations are missing from here too.
 ```
