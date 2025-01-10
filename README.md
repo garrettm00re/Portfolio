@@ -1,11 +1,10 @@
-# Garrett Moore's Portfolio
+# cs61b projects
     CS Projects To Date
 ```diff
 + Overview:
 
 This portfolio includes my projects from cs61b (Data Structures). I plan to revitalize these
-projects, add more from other classes, and create passion projects. Please enjoy these, and if you have
-any questions, comments, or concerns feel free to reach out.
+projects, add more from other classes, and create passion projects.
 
 - NOTE:
 Necessary data, libraries, and sources are all missing.
